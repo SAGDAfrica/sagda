@@ -1,5 +1,5 @@
 import unittest
-from agri_synthetic_data.data_generation import generate
+from sagda.data_generation import generate
 
 class TestDataGeneration(unittest.TestCase):
 
