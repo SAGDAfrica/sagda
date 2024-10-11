@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sagda',
-    version='0.1.0',
+    version='0.1.1',
     author='PySAGDA',
     author_email='abdelghani.belgaid@um6p.ma',
     description='Generating and Augmenting Agricultural Synthetic Data in Africa',
