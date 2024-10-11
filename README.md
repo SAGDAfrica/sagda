@@ -1,6 +1,6 @@
-# **SADGA**: Synthetic Agriculture Data in Africa
+# **SAGDA**: Synthetic Agriculture Data in Africa
 
-**SADGA** (Synthetic Agriculture Data in Africa) is a Python library for generating, augmenting, and validating synthetic agricultural data for African regions. The library allows users to create realistic agricultural datasets, augment them using machine learning techniques, and validate the generated data against real data. SADGA can also integrate real-world data from APIs like NASA POWER and OpenWeatherMap to enhance synthetic data generation.
+**SAGDA** (Synthetic Agriculture Data in Africa) is a Python library for generating, augmenting, and validating synthetic agricultural data for African regions. The library allows users to create realistic agricultural datasets, augment them using machine learning techniques, and validate the generated data against real data. SAGDA can also integrate real-world data from APIs like NASA POWER and OpenWeatherMap to enhance synthetic data generation.
 
 ## **Key Features**
 
@@ -11,10 +11,10 @@
 
 ## **Installation**
 
-You can install SADGA from PyPI using `pip`:
+You can install SAGDA from PyPI using `pip`:
 
 ```bash
-pip install sadga
+pip install sagda
 ```
 
 ## **Dependencies**
@@ -35,7 +35,7 @@ You can generate synthetic data using either random generation or real-world dat
 #### **Basic Usage** (Without API)
 
 ```python
-from sadga import generate
+from sagda import generate
 
 # Generate synthetic data without API
 data = generate(
