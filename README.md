@@ -185,6 +185,22 @@ SADGA/
 ```
 
 ---
+### **How to cite**
+
+Please cite SAGDA as follows:
+
+<pre>
+@dataset{Belgaid_etal2024,
+  author       = {Abdelghani Belgaid},
+  title        = {{SAGDA: Synthetic Agriculture Data in Africa}},
+  year         = 2024,
+  publisher    = {TBD},
+  version      = {1.0},
+  doi          = {TBD},
+}
+</pre>
+
+---
 
 ## **Contributing**
 
