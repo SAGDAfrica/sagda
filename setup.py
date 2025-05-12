@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name='sagda',
     version='0.1.1',
-    author='PySAGDA',
+    author='SAGDA',
     author_email='abdelghani.belgaid@um6p.ma',
     description='Generating and Augmenting Agricultural Synthetic Data in Africa',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/PySAGDA/sagda/',
+    url='https://github.com/SAGDAfrica/sagda/',
     packages=find_packages(),
     install_requires=[
         'pandas',
