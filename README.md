@@ -190,13 +190,11 @@ SADGA/
 Please cite SAGDA as follows:
 
 <pre>
-@dataset{Belgaid_etal2024,
-  author       = {Abdelghani Belgaid},
-  title        = {{SAGDA: Synthetic Agriculture Data in Africa}},
-  year         = 2024,
-  publisher    = {TBD},
-  version      = {1.0},
-  doi          = {TBD},
+@misc{sagda2024,
+  title        = {{SAGDA: Open-Source Synthetic Agriculture Data for Africa}},
+  year         = {2024},
+  version      = {0.1.1},
+  howpublished = {\url{https://github.com/SAGDAfrica/sagda/}},
 }
 </pre>
 
