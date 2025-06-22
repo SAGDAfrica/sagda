@@ -190,11 +190,14 @@ SADGA/
 Please cite SAGDA as follows:
 
 <pre>
-@misc{sagda2024,
-  title        = {{SAGDA: Open-Source Synthetic Agriculture Data for Africa}},
-  year         = {2024},
-  version      = {0.1.1},
-  howpublished = {\url{https://github.com/SAGDAfrica/sagda/}},
+@misc{sagda,
+      title={SAGDA: Open-Source Synthetic Agriculture Data for Africa}, 
+      author={Abdelghani Belgaid and Oumnia Ennaji},
+      year={2025},
+      eprint={2506.13123},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.13123}, 
 }
 </pre>
 
