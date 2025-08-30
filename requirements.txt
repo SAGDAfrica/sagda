@@ -4,3 +4,4 @@ requests
 scipy
 tensorflow
 scikit-learn
+matplotlib
