@@ -54,7 +54,7 @@ print(data)
 #### **Usage with NASA POWER API**
 
 ```python
-from sadga import generate
+from sagda import generate
 
 # Generate synthetic data using NASA POWER API
 data = generate(
@@ -77,7 +77,7 @@ You can augment real data using techniques like random sampling, linear regressi
 #### **Linear Regression-Based Augmentation**
 
 ```python
-from sadga import augment
+from sagda import augment
 import pandas as pd
 
 # Example real data
@@ -110,7 +110,7 @@ Validate the generated synthetic data by comparing it with real-world data.
 #### **Validation Example**
 
 ```python
-from sadga import validate
+from sagda import validate
 import pandas as pd
 
 # Example real data
@@ -143,7 +143,7 @@ SADGA integrates with NASA POWER and OpenWeatherMap APIs for fetching real-world
 #### **NASA POWER API Example**
 
 ```python
-from sadga import generate
+from sagda import generate
 
 # Generate data using NASA POWER API
 data = generate(
