@@ -2,7 +2,7 @@ import unittest
 import numpy as np
 import pandas as pd
 
-from sagda.data_validation import validate, report
+from sagda.validation import validate, report
 
 
 def make_datasets(n=80, seed=0):
