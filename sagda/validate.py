@@ -633,7 +633,7 @@ def report(
     *,
     as_markdown: bool = False,
     thresholds: Optional[Dict[str, float]] = None,
-    title: str = "Synthetic Data Validation – Summary",
+    title: str = "Synthetic Data Validation Summary",
 ) -> str:
     """
     Format a full validation summary from `validate(...)` output.
